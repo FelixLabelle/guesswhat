@@ -1,4 +1,3 @@
-git fetch --recurse-submodules
 [submodule "src/generic"]
 	path = src/generic
 	url = https://github.com/GuessWhatGame/generic
